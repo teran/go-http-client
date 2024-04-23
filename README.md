@@ -1,5 +1,7 @@
 # go-http-client
 
+[![Go](https://github.com/teran/go-http-client/actions/workflows/go.yml/badge.svg)](https://github.com/teran/go-http-client/actions/workflows/go.yml)
+
 HTTP Client for Go to ease interaction with web services, especially APIs
 
 ## Usage example
