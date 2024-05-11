@@ -8,6 +8,7 @@ HTTP Client for Go to ease interaction with web services, especially APIs
 
 ## Usage example
 
+<!-- markdownlint-disable MD010 -->
 ```go
 package main
 
@@ -36,3 +37,4 @@ func main() {
 }
 
 ```
+<!-- markdownlint-enable MD010 -->
