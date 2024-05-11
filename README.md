@@ -1,6 +1,8 @@
 # go-http-client
 
 [![Go](https://github.com/teran/go-http-client/actions/workflows/go.yml/badge.svg)](https://github.com/teran/go-http-client/actions/workflows/go.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/teran/go-http-client)](https://goreportcard.com/report/github.com/teran/go-http-client)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/teran/go-http-client)](https://pkg.go.dev/github.com/teran/go-http-client)
 
 HTTP Client for Go to ease interaction with web services, especially APIs
 
